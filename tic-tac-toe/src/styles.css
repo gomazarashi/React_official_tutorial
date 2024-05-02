@@ -85,6 +85,20 @@ body {
   flex-direction: row;
 }
 
+.game-board {
+  width: 100%;
+  max-width: 200px;
+}
+
 .game-info {
   margin-left: 20px;
+}
+
+.game-info button{
+  background-color: #b0e789;
+  border-radius: 32px; 
+  width: 100%;
+  max-width: 320px;
+  padding: 10px;
+  margin: 5px;
 }
